@@ -6,8 +6,8 @@
           <div class="tags has-addons">
             <a
               class="tag is-dark"
-              href="https://github.com/Aicirou/goindex-theme-acrou"
-            >goindex-theme-acrou</a>
+              href="http://gd.boki.tk"
+            >首页</a>
             <span class="tag is-light">
               MIT &nbsp;
               <span class="icon">
